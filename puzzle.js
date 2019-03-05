@@ -100,7 +100,7 @@ $(function() {
             }
             if(index === 1 || index === 2)
             {
-                img="url(img";
+                img="url(img/img";
                 img+=index;
                 img+=".jpg) ";
                
